@@ -1,0 +1,19 @@
+{
+  "name": "voa_application_manager",
+  "version": "0.0.1",
+  "description": "Just a bunch of text",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Vinícius Martins Meneses",
+  "license": "SEE LICENSE IN license.me",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-fileupload": "^0.1.2",
+    "express-formidable": "^1.0.0",
+    "mongodb": "^2.2.24",
+    "mysql": "^2.13.0"
+  }
+}
